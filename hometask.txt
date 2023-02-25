@@ -1,1 +1,16 @@
 2) Текущая ветка master отличается от ветки origin/demo файлом README.txt(в master он подробнее)
+
+4) 11(12) коммитов(снизу вверх):
+1)init
+2)heat added
+3)boots
+4)README added
+5)dots
+6)fix readme
+7)Merge remote-tracking branch 'origin/boots' into boots_buttons
+8)Merge remote-tracking branch 'origin/buttons' into boots_buttons
+9)Merge remote-tracking branch 'origin/hat'
+10)task3 commit(master branch)
+11)Merge pull request #1 from Gogasmerter/master
+
+(+12) Сделаю сейчас коммит с названием коммит
