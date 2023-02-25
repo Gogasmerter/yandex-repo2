@@ -1,0 +1,1 @@
+2) Текущая ветка master отличается от ветки origin/demo файлом README.txt(в master он подробнее)
